@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkApp", "AkApp\AkApp.csproj", "{ECBCFFCC-3E97-4B77-886A-BB98033B8818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkApp.Sdk", "AkApp.Sdk\AkApp.Sdk.csproj", "{D8A70555-4BE9-4D7C-B0F0-9B947AE4F8B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECBCFFCC-3E97-4B77-886A-BB98033B8818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBCFFCC-3E97-4B77-886A-BB98033B8818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBCFFCC-3E97-4B77-886A-BB98033B8818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBCFFCC-3E97-4B77-886A-BB98033B8818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A70555-4BE9-4D7C-B0F0-9B947AE4F8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A70555-4BE9-4D7C-B0F0-9B947AE4F8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A70555-4BE9-4D7C-B0F0-9B947AE4F8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A70555-4BE9-4D7C-B0F0-9B947AE4F8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27A13179-A15F-46C4-B951-C3F61DD8DC79}
+	EndGlobalSection
+EndGlobal

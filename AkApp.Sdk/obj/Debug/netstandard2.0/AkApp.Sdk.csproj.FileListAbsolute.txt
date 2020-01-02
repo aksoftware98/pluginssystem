@@ -1,0 +1,8 @@
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp.Sdk\bin\Debug\netstandard2.0\AkApp.Sdk.deps.json
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp.Sdk\bin\Debug\netstandard2.0\AkApp.Sdk.dll
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp.Sdk\bin\Debug\netstandard2.0\AkApp.Sdk.pdb
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp.Sdk\obj\Debug\netstandard2.0\AkApp.Sdk.csprojAssemblyReference.cache
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp.Sdk\obj\Debug\netstandard2.0\AkApp.Sdk.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp.Sdk\obj\Debug\netstandard2.0\AkApp.Sdk.AssemblyInfo.cs
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp.Sdk\obj\Debug\netstandard2.0\AkApp.Sdk.dll
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp.Sdk\obj\Debug\netstandard2.0\AkApp.Sdk.pdb

@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\bin\Debug\netcoreapp3.1\AkApp.exe
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\bin\Debug\netcoreapp3.1\AkApp.deps.json
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\bin\Debug\netcoreapp3.1\AkApp.runtimeconfig.json
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\bin\Debug\netcoreapp3.1\AkApp.runtimeconfig.dev.json
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\bin\Debug\netcoreapp3.1\AkApp.dll
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\bin\Debug\netcoreapp3.1\AkApp.pdb
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\obj\Debug\netcoreapp3.1\AkApp.csprojAssemblyReference.cache
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\obj\Debug\netcoreapp3.1\AkApp.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\obj\Debug\netcoreapp3.1\AkApp.AssemblyInfo.cs
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\obj\Debug\netcoreapp3.1\AkApp.csproj.CopyComplete
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\obj\Debug\netcoreapp3.1\AkApp.dll
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\obj\Debug\netcoreapp3.1\AkApp.pdb
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\bin\Debug\netcoreapp3.1\AkApp.Sdk.dll
+C:\Users\dell\Documents\AK Academy\CSharpTopics\AkApp\AkApp\bin\Debug\netcoreapp3.1\AkApp.Sdk.pdb
